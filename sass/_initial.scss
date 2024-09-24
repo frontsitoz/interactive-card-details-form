@@ -1,0 +1,13 @@
+@use 'variables';
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: variables.$font-family;
+font-size: 18px;
+}
+
